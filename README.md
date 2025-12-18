@@ -7,9 +7,6 @@ Feito para quem quer jogar com foco total, zero distrações e máxima consistê
 ## 📌 O que é este autoexec?
 Este repositório contém um arquivo `autoexec.cfg` configurado para:
 
-- Máxima clareza de passos  
-- Vídeo otimizado para jogabilidade competitiva  
-- Remoção de sons inúteis  
 - Desempenho consistente em qualquer máquina  
 - Organização simples para personalização rápida
 
@@ -33,16 +30,8 @@ e insira: **+exec autoexec.cfg**
 ## 🔊 Principais otimizações
 
 ### 🎧 Áudio competitivo
-- Máxima clareza de passos  
-- Reverb desativado  
-- Sons de menu/round mutados  
-- Zero distrações auditivas  
-
-### 🖥️ Vídeo
-- Resolução e aspect ratio otimizados  
-- Máximo desempenho e input-like reduzido  
-- Remoção de detalhes cosméticos desnecessários  
-
+- Minhas distribuições tais quais considero ideal
+  
 ### 🖱️ Geral
 - Binds organizados  
 - Configurações importantes comentadas  
